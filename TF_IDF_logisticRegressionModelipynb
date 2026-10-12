@@ -23,7 +23,7 @@
         "colab_type": "text"
       },
       "source": [
-        "<a href=\"https://colab.research.google.com/github/tselane2110/Urdu-BinarySarcasmDetection/blob/main/0_DataPreprocessing.ipynb\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+        "<a href=\"https://colab.research.google.com/github/tselane2110/Urdu-BinarySarcasmDetection/blob/main/TF_IDF_logisticRegressionModelipynb\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
       ]
     },
     {
