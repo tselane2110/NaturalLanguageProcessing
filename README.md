@@ -1,6 +1,6 @@
 # Urdu-Binary Sarcasm Detection:
 
-* `notebook.ipynb` includes all the work done from data preprocessing to model training (including markdown-based explanation).
+* `notebook.ipynb` includes all the work done from data preprocessing to model training (including markdown-based explanations).
 * `projectGuidelines.pdf` is the document containing the assignment guidelines.
 * `urdu_sarcastic_dataset.csv` is the provided dataset used for the assignment.
 
